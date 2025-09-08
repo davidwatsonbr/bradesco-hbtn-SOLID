@@ -1,6 +1,6 @@
 // classe users, representando nossa entidade
 
-class UsersModels {
+class UserModel {
 
     int idUser;
     
@@ -10,14 +10,14 @@ class UsersModels {
     
     // função que coleta todos os users
     
-    public fetchUsersModels() { return [];}
+    public fetchUsers() { return [];}
     
     // função que coleta todos os users
     
-    public allUsersModels() {return [];}
+    public allUsers() {return [];}
     
     // função que coleta todos os users
     
-    public getUsersModels() {return [];}
+    public getUsers() {return [];}
     
-    }
+}
