@@ -10,14 +10,14 @@ class UsersModels {
     
     // função que coleta todos os users
     
-    public fetchUsers() { return [];}
+    public fetchUsersModels() { return [];}
     
     // função que coleta todos os users
     
-    public allUsers() {return [];}
+    public allUsersModels() {return [];}
     
     // função que coleta todos os users
     
-    public getUsers() {return [];}
+    public getUsersModels() {return [];}
     
     }
